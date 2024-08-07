@@ -52,10 +52,13 @@
     width: 260px;
     border-radius: 10px;
     padding-left: 11px;
+    align-items: center;
 }
 .left-individual-options{
     font-weight: bold;
     padding-left: 30px;
+        
+      
 }
 .left-login{
     background-color: rgb(30, 154, 212);
@@ -99,7 +102,9 @@
 .quote{
     font-size: 20px;
     padding-top: 17px;
-    color: rgb(28 43 51);
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 .preview{
     display: flex;

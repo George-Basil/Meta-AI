@@ -55,6 +55,10 @@
     padding-left: 11px;
     align-items: center;
 }
+.photo-grid{
+    text-align: center;
+    height: 200px;
+}
 .left-individual-options{
     font-weight: bold;
     padding-left: 30px;

@@ -30,6 +30,7 @@
     color: darkgray;
     cursor: pointer;
     background-color: white;
+    border-style: solid;
 }
 #meta-icon{
     display: flex;
